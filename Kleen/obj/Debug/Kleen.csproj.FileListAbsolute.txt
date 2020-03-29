@@ -1,0 +1,12 @@
+C:\Users\sleon\source\repos\Kleen\Kleen\bin\Debug\Kleen.exe.config
+C:\Users\sleon\source\repos\Kleen\Kleen\bin\Debug\Kleen.exe
+C:\Users\sleon\source\repos\Kleen\Kleen\bin\Debug\Kleen.pdb
+C:\Users\sleon\source\repos\Kleen\Kleen\obj\Debug\Kleen.csprojAssemblyReference.cache
+C:\Users\sleon\source\repos\Kleen\Kleen\obj\Debug\Kleen.exe
+C:\Users\sleon\source\repos\Kleen\Kleen\obj\Debug\Kleen.pdb
+C:\Users\sleon\Downloads\UCO\2020-1\COMPLEJIDAD DE ALGORITMOS\Kleen\Kleen\bin\Debug\Kleen.exe.config
+C:\Users\sleon\Downloads\UCO\2020-1\COMPLEJIDAD DE ALGORITMOS\Kleen\Kleen\bin\Debug\Kleen.exe
+C:\Users\sleon\Downloads\UCO\2020-1\COMPLEJIDAD DE ALGORITMOS\Kleen\Kleen\bin\Debug\Kleen.pdb
+C:\Users\sleon\Downloads\UCO\2020-1\COMPLEJIDAD DE ALGORITMOS\Kleen\Kleen\obj\Debug\Kleen.csprojAssemblyReference.cache
+C:\Users\sleon\Downloads\UCO\2020-1\COMPLEJIDAD DE ALGORITMOS\Kleen\Kleen\obj\Debug\Kleen.exe
+C:\Users\sleon\Downloads\UCO\2020-1\COMPLEJIDAD DE ALGORITMOS\Kleen\Kleen\obj\Debug\Kleen.pdb
